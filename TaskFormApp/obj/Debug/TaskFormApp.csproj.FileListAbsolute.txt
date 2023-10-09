@@ -1,0 +1,12 @@
+C:\Users\ens_s\Desktop\Software\Projects\AsyncMultiThread\TaskFormApp\bin\Debug\TestData.txt
+C:\Users\ens_s\Desktop\Software\Projects\AsyncMultiThread\TaskFormApp\bin\Debug\TaskFormApp.exe.config
+C:\Users\ens_s\Desktop\Software\Projects\AsyncMultiThread\TaskFormApp\bin\Debug\TaskFormApp.exe
+C:\Users\ens_s\Desktop\Software\Projects\AsyncMultiThread\TaskFormApp\bin\Debug\TaskFormApp.pdb
+C:\Users\ens_s\Desktop\Software\Projects\AsyncMultiThread\TaskFormApp\obj\Debug\TaskFormApp.csproj.AssemblyReference.cache
+C:\Users\ens_s\Desktop\Software\Projects\AsyncMultiThread\TaskFormApp\obj\Debug\TaskFormApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ens_s\Desktop\Software\Projects\AsyncMultiThread\TaskFormApp\obj\Debug\TaskFormApp.Form1.resources
+C:\Users\ens_s\Desktop\Software\Projects\AsyncMultiThread\TaskFormApp\obj\Debug\TaskFormApp.Properties.Resources.resources
+C:\Users\ens_s\Desktop\Software\Projects\AsyncMultiThread\TaskFormApp\obj\Debug\TaskFormApp.csproj.GenerateResource.cache
+C:\Users\ens_s\Desktop\Software\Projects\AsyncMultiThread\TaskFormApp\obj\Debug\TaskFormApp.csproj.CoreCompileInputs.cache
+C:\Users\ens_s\Desktop\Software\Projects\AsyncMultiThread\TaskFormApp\obj\Debug\TaskFormApp.exe
+C:\Users\ens_s\Desktop\Software\Projects\AsyncMultiThread\TaskFormApp\obj\Debug\TaskFormApp.pdb
