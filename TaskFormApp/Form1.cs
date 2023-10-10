@@ -22,7 +22,14 @@ namespace TaskFormApp
         public int counter { get; set; } = 0;
         private async void btnReadFile_Click(object sender, EventArgs e)
         {
-            string data = await ReadFileAsync();
+            string data = String.Empty;
+            Task<String> okuma = ReadFileAsync();
+            await ReadFileAsync();
+
+            richTextBox2.Text = await new HttpClient().GetStringAsync("htpps://www.google.com");
+
+            data = await okuma;
+
 
             rchFile.Text = data;
         }
@@ -59,6 +66,11 @@ namespace TaskFormApp
                 data = await myTask;
                 return data;
             }
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
 
         }
     }
