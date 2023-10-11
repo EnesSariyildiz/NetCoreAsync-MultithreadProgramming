@@ -26,9 +26,9 @@ namespace TaskFormApp
             Task<String> okuma = ReadFileAsync();
             await ReadFileAsync();
 
-            richTextBox2.Text = await new HttpClient().GetStringAsync("htpps://www.google.com");
+            richTextBox2.Text = await new HttpClient().GetStringAsync("https://www.google.com");
 
-            data = await okuma;
+            data = await okuma; 
 
 
             rchFile.Text = data;
